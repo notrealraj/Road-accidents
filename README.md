@@ -6,13 +6,19 @@ Introduction
 Dashboard Requirements
 
 Introduction
-This project focuses on developing a Power BI Dashboard to generate insights from road accident data in the United Kingdom. 
+This project involves the development of a Power BI Dashboard aimed at generating insights from road accident data in the United Kingdom.
 
 Dashboard Requirements
-Primary KPI's - Total Casualties and Total Accident values for Current Year and YoY Growth
-Primary KPI's - Total Casualties by Accident Severity for Current Year and YoY Growth
-Secondary KPI's - Total Casualties with respect to Vehicle Type for Current Year
-Monthly Trend showing comparison of Casualties for Current Year and Previous Year
-Casualties by Road Type for Current Year
-Current Year Casualties by Area/Location & Day/Night
-Total Casualties and Total Accident by Location
+Primary KPIs:
+
+Total Casualties and Total Accidents for the Current Year and Year-over-Year (YoY) Growth.
+Total Casualties by Accident Severity for the Current Year and YoY Growth.
+Secondary KPIs:
+
+Total Casualties by Vehicle Type for the Current Year.
+Visualizations:
+
+Monthly Trend comparing Casualties for the Current Year and Previous Year.
+Casualties by Road Type for the Current Year.
+Current Year Casualties by Area/Location and Day/Night.
+Total Casualties and Total Accidents by Location.
